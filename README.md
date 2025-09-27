@@ -1,0 +1,1 @@
+# Leadbot  Een simpele embeddable Leadbot widget (zoals Futy.io) met offerteformulier, afspraaklink, WhatsApp-flow en configurator-kaart.
